@@ -1,0 +1,97 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: -1
+Countdown: 0
+SampleSet: Normal
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 0
+WidescreenStoryboard: 1
+
+[Editor]
+Bookmarks: 0,2545
+DistanceSpacing: 1.1
+BeatDivisor: 4
+GridSize: 8
+TimelineZoom: 1
+
+[Metadata]
+Title:Ya enotik poloskyn
+TitleUnicode:Ya enotik poloskyn
+Artist:Glad Valakas
+ArtistUnicode:Glad Valakas
+Creator:Mem4K
+Version:Normal
+Source:
+Tags:Enotik poloskyn
+BeatmapID:1752124
+BeatmapSetID:836710
+
+[Difficulty]
+HPDrainRate:1
+CircleSize:3
+OverallDifficulty:5
+ApproachRate:6
+SliderMultiplier:1.4
+SliderTickRate:2
+
+[Events]
+//Background and Video events
+0,0,"agaga.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+
+[TimingPoints]
+0,363.636363636364,4,1,0,100,1,0
+
+
+[HitObjects]
+72,328,0,6,0,B|168:256|192:80|192:80|184:256|280:352,1,560
+344,328,1636,2,0,L|432:320,1,70
+464,264,2000,2,0,L|384:272,1,70
+360,200,2363,1,0,0:0:0:0:
+360,200,2545,2,0,B|448:192|448:192|400:168,1,140
+344,120,3090,2,0,L|256:104,1,70
+216,152,3454,2,0,L|144:160,1,70
+104,224,3818,1,0,0:0:0:0:
+152,280,4000,1,0,0:0:0:0:
+232,272,4181,6,0,L|320:272,1,70
+302,272,4545,2,0,L|224:272,1,70
+176,216,4909,2,0,L|216:144,1,70
+209,154,5272,2,0,L|168:224,1,70
+112,264,5636,1,0,0:0:0:0:
+160,320,5818,1,0,0:0:0:0:
+232,296,6000,1,0,0:0:0:0:
+296,336,6181,1,0,0:0:0:0:
+352,288,6363,1,0,0:0:0:0:
+400,232,6545,6,0,L|464:160,1,70
+384,136,6909,2,0,L|320:208,1,70
+264,216,7272,1,0,0:0:0:0:
+200,176,7454,1,0,0:0:0:0:
+216,104,7636,1,0,0:0:0:0:
+152,64,7818,1,0,0:0:0:0:
+80,80,8000,1,0,0:0:0:0:
+40,144,8181,2,0,P|24:216|72:272,1,140
+136,272,8727,2,0,L|232:256,1,70
+264,312,9090,2,0,L|352:328,1,70
+384,272,9454,5,0,0:0:0:0:
+432,208,9636,1,0,0:0:0:0:
+352,176,9818,2,0,B|320:96|320:96|424:72,1,175
+472,120,10454,1,0,0:0:0:0:
+456,192,10636,1,0,0:0:0:0:
+472,264,10818,1,0,0:0:0:0:
+424,328,10999,1,0,0:0:0:0:
+352,296,11181,2,0,L|264:280,1,70
+216,328,11545,2,0,L|144:344,1,70
+152,264,11909,6,0,P|136:208|184:240,1,140
+264,240,12454,1,0,0:0:0:0:
+344,232,12636,1,0,0:0:0:0:
+416,264,12818,1,0,0:0:0:0:
+256,192,13000,12,0,14025,0:0:0:0:

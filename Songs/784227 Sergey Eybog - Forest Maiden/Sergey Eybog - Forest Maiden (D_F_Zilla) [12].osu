@@ -1,0 +1,59 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 900
+Countdown: 0
+SampleSet: None
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 0
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 0.8
+BeatDivisor: 4
+GridSize: 16
+TimelineZoom: 1
+
+[Metadata]
+Title:Forest Maiden
+TitleUnicode:Forest Maiden
+Artist:Sergey Eybog
+ArtistUnicode:Sergey Eybog
+Creator:D_F_Zilla
+Version:12
+Source:
+Tags:
+BeatmapID:1646557
+BeatmapSetID:784227
+
+[Difficulty]
+HPDrainRate:4
+CircleSize:4
+OverallDifficulty:5
+ApproachRate:8.5
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"epilogue_sl_2.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+
+[TimingPoints]
+900,461.538461538462,4,1,0,10,1,0
+
+
+[Colours]
+Combo1 : 4,249,255
+Combo2 : 237,249,6
+Combo3 : 255,255,255
+
+[HitObjects]

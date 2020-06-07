@@ -1,0 +1,57 @@
+[Events]
+//Background and Video events
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+Sprite,Foreground,BottomCentre,"cross.png",160,648
+ T,HitSoundFinish,0,229506
+  V,0,0,178,0.2,0,0.2,1
+  F,1,178,357,1,0
+  V,0,178,357,0.2,1,1.5,1.2
+Sprite,Foreground,BottomCentre,"cross.png",320,600
+ T,HitSoundFinish,0,229506
+  V,0,0,178,0.2,0,0.2,1
+  F,1,178,357,1,0
+  V,0,178,357,0.2,1,1.5,1.5
+Sprite,Foreground,BottomCentre,"cross.png",480,648
+ T,HitSoundFinish,0,229506
+  V,0,0,178,0.2,0,0.2,1
+  F,1,178,357,1,0
+  V,0,178,357,0.2,1,1.5,1.2
+Sprite,Foreground,BottomCentre,"cross.png",78,678
+ T,HitSoundWhistle,0,229506
+  V,0,0,178,0.2,0,0.2,1
+  F,1,178,357,1,0
+  V,0,178,357,0.2,1,1.5,1
+Sprite,Foreground,BottomCentre,"cross.png",256,660
+ T,HitSoundWhistle,0,229506
+  V,0,0,178,0.2,0,0.2,1
+  F,1,178,357,1,0
+  V,0,178,357,0.2,1,1.5,1.1
+Sprite,Foreground,BottomCentre,"cross.png",384,660
+ T,HitSoundWhistle,0,229506
+  V,0,0,178,0.2,0,0.2,1
+  F,1,178,357,1,0
+  V,0,178,357,0.2,1,1.5,1.1
+Sprite,Foreground,BottomCentre,"cross.png",562,678
+ T,HitSoundWhistle,0,229506
+  V,0,0,178,0.2,0,0.2,1
+  F,1,178,357,1,0
+  V,0,178,357,0.2,1,1.5,1
+Sprite,Foreground,BottomCentre,"cross.png",128,648
+ T,HitSoundClap,0,229506
+  V,0,0,178,0.2,0,0.2,1
+  F,1,178,357,1,0
+  V,0,178,357,0.2,1,1.6,1.6
+Sprite,Foreground,BottomCentre,"cross.png",512,648
+ T,HitSoundClap,0,229506
+  V,0,0,178,0.2,0,0.2,1
+  F,1,178,357,1,0
+  V,0,178,357,0.2,1,1.6,1.6
+Sprite,Foreground,BottomCentre,"cross.png",320,600
+ T,HitSoundClap,0,229506
+  V,0,0,178,0.2,0,0.2,1
+  F,1,178,357,1,0
+  V,0,178,357,0.2,1,1.5,1.5
+//Storyboard Sound Samples

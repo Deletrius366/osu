@@ -1,0 +1,89 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: -1
+Countdown: 1
+SampleSet: None
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 0
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 1.8
+BeatDivisor: 4
+GridSize: 4
+TimelineZoom: 1.400006
+
+[Metadata]
+Title:Destiny
+TitleUnicode:Destiny
+Artist:Neffex
+ArtistUnicode:Neffex
+Creator:Bithum
+Version:Normal
+Source:Neffex
+Tags:Neffex
+BeatmapID:2083205
+BeatmapSetID:809498
+
+[Difficulty]
+HPDrainRate:4
+CircleSize:3.5
+OverallDifficulty:4
+ApproachRate:7
+SliderMultiplier:0.999999999999999
+SliderTickRate:2
+
+[Events]
+//Background and Video events
+0,0,"maxresdefault.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+
+[TimingPoints]
+64,461.538461538462,4,1,0,9,1,0
+64,-100,4,2,1,10,0,0
+7448,-100,4,2,1,30,0,0
+14833,-66.6666666666667,4,3,0,40,0,0
+43910,-66.6666666666667,4,3,0,50,0,0
+44371,-66.6666666666667,4,3,1,50,0,0
+59140,-66.6666666666667,4,1,0,90,0,0
+60064,-66.6666666666667,4,1,0,40,0,0
+60987,-66.6666666666667,4,1,0,90,0,0
+61910,-66.6666666666667,4,1,0,40,0,0
+62833,-66.6666666666667,4,1,0,90,0,0
+63756,-66.6666666666667,4,1,0,40,0,0
+64679,-66.6666666666667,4,2,0,40,0,0
+66525,-66.6666666666667,4,3,1,40,0,0
+73910,-100,4,1,0,70,0,1
+79448,-66.6666666666667,4,1,0,50,0,1
+81294,-100,4,1,1,60,0,1
+86833,-66.6666666666667,4,1,0,50,0,1
+88679,-100,4,1,1,60,0,1
+94217,-66.6666666666667,4,1,0,50,0,1
+96064,-100,4,1,1,60,0,1
+101602,-66.6666666666667,4,1,0,50,0,1
+103448,-100,4,1,1,60,0,0
+
+
+[Colours]
+Combo1 : 128,255,0
+Combo2 : 255,0,0
+Combo3 : 255,255,0
+Combo4 : 0,255,255
+
+[HitObjects]
+110,286,64,5,0,0:0:0:0:
+171,221,294,1,0,0:0:0:0:
+249,265,525,1,0,0:0:0:0:
+249,265,756,1,0,0:0:0:0:
+319,148,987,1,0,0:0:0:0:
+359,228,1217,1,0,0:0:0:0:
+319,148,1448,1,0,0:0:0:0:
